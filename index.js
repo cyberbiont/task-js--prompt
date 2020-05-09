@@ -1,3 +1,3 @@
-import task from './task/task.js';
+import task from "./task/task.js";
 
 task();
