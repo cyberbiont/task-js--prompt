@@ -1,5 +1,5 @@
 {
 	"infiniteLoopProtection": true,
 	"hardReloadOnChange": false,
-	"template": "node"
+	"template": "parcel"
 }
